@@ -1,0 +1,191 @@
+c:\users\toro\documents\visual studio 2010\Projects\WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\bin\Debug\WindowsFormsApplicationGUIuARM.exe
+c:\users\toro\documents\visual studio 2010\Projects\WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\bin\Debug\WindowsFormsApplicationGUIuARM.pdb
+c:\users\toro\documents\visual studio 2010\Projects\WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.Form1.resources
+c:\users\toro\documents\visual studio 2010\Projects\WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.Properties.Resources.resources
+c:\users\toro\documents\visual studio 2010\Projects\WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.csproj.GenerateResource.Cache
+c:\users\toro\documents\visual studio 2010\Projects\WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.exe
+c:\users\toro\documents\visual studio 2010\Projects\WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.pdb
+C:\Users\Toro\Documents\Visual Studio 2010\Projects\WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.csprojResolveAssemblyReference.cache
+C:\Users\Toro\documents\visual studio 2010\Projects\WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\bin\Debug\gTrackBar.dll
+C:\Users\Toro\documents\visual studio 2010\Projects\WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\bin\Debug\gTrackBar.pdb
+C:\Users\Toro\documents\visual studio 2010\Projects\WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\bin\Debug\gTrackBar.xml
+D:\5 Kerja\BJT JOSS\160824 uArm\Maker GUI\WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.exe
+D:\5 Kerja\BJT JOSS\160824 uArm\Maker GUI\WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.pdb
+D:\5 Kerja\BJT JOSS\160824 uArm\Maker GUI\161001 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.exe
+D:\5 Kerja\BJT JOSS\160824 uArm\Maker GUI\161001 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.pdb
+D:\5 Kerja\BJT JOSS\160824 uArm\Maker GUI\161001 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\bin\Debug\WindowsFormsApplicationGUIuARM.exe
+D:\5 Kerja\BJT JOSS\160824 uArm\Maker GUI\161001 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\bin\Debug\WindowsFormsApplicationGUIuARM.pdb
+D:\5 Kerja\BJT JOSS\160824 uArm\Maker GUI\161001 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\bin\Debug\gTrackBar.dll
+D:\5 Kerja\BJT JOSS\160824 uArm\Maker GUI\161001 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\bin\Debug\gTrackBar.pdb
+D:\5 Kerja\BJT JOSS\160824 uArm\Maker GUI\161001 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\bin\Debug\gTrackBar.xml
+D:\5 Kerja\BJT JOSS\160824 uArm\Maker GUI\161001 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.csprojResolveAssemblyReference.cache
+D:\5 Kerja\BJT JOSS\160824 uArm\Maker GUI\161001 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.Form1.resources
+D:\5 Kerja\BJT JOSS\160824 uArm\Maker GUI\161001 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.Properties.Resources.resources
+D:\5 Kerja\BJT JOSS\160824 uArm\Maker GUI\161001 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.csproj.GenerateResource.Cache
+D:\5 Kerja\BJT JOSS\160824 uArm\GUI\161001 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\bin\Debug\Resources\uArm1.png
+D:\5 Kerja\BJT JOSS\160824 uArm\GUI\161001 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\bin\Debug\Resources\Logo Kecil.png
+D:\5 Kerja\BJT JOSS\160824 uArm\GUI\161001 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\bin\Debug\WindowsFormsApplicationGUIuARM.exe
+D:\5 Kerja\BJT JOSS\160824 uArm\GUI\161001 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\bin\Debug\WindowsFormsApplicationGUIuARM.pdb
+D:\5 Kerja\BJT JOSS\160824 uArm\GUI\161001 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.About.resources
+D:\5 Kerja\BJT JOSS\160824 uArm\GUI\161001 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.Form1.resources
+D:\5 Kerja\BJT JOSS\160824 uArm\GUI\161001 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.Properties.Resources.resources
+D:\5 Kerja\BJT JOSS\160824 uArm\GUI\161001 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.csproj.GenerateResource.Cache
+D:\5 Kerja\BJT JOSS\160824 uArm\GUI\161001 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.exe
+D:\5 Kerja\BJT JOSS\160824 uArm\GUI\161001 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.pdb
+D:\5 Kerja\BJT JOSS\20160824 uArm\GUI\161001 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.exe
+D:\5 Kerja\BJT JOSS\20160824 uArm\GUI\161001 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.pdb
+D:\5 Kerja\BJT JOSS\20160824 uArm\GUI\161001 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\bin\Debug\Resources\uArm1.png
+D:\5 Kerja\BJT JOSS\20160824 uArm\GUI\161001 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\bin\Debug\Resources\Logo Kecil.png
+D:\5 Kerja\BJT JOSS\20160824 uArm\GUI\161001 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\bin\Debug\WindowsFormsApplicationGUIuARM.exe
+D:\5 Kerja\BJT JOSS\20160824 uArm\GUI\161001 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\bin\Debug\WindowsFormsApplicationGUIuARM.pdb
+D:\5 Kerja\BJT JOSS\20160824 uArm\GUI\161001 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.csprojResolveAssemblyReference.cache
+D:\5 Kerja\BJT JOSS\20160824 uArm\GUI\161001 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.About.resources
+D:\5 Kerja\BJT JOSS\20160824 uArm\GUI\161001 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.Form1.resources
+D:\5 Kerja\BJT JOSS\20160824 uArm\GUI\161001 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.Properties.Resources.resources
+D:\5 Kerja\BJT JOSS\20160824 uArm\GUI\161001 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.csproj.GenerateResource.Cache
+D:\5 Kerja\BJT JOSS\20160824 uArm\GUI\161020 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.exe
+D:\5 Kerja\BJT JOSS\20160824 uArm\GUI\161020 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.pdb
+D:\5 Kerja\BJT JOSS\20160824 uArm\GUI\161020 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\bin\Debug\Resources\uArm1.png
+D:\5 Kerja\BJT JOSS\20160824 uArm\GUI\161020 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\bin\Debug\Resources\Logo Kecil.png
+D:\5 Kerja\BJT JOSS\20160824 uArm\GUI\161020 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\bin\Debug\WindowsFormsApplicationGUIuARM.exe
+D:\5 Kerja\BJT JOSS\20160824 uArm\GUI\161020 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\bin\Debug\WindowsFormsApplicationGUIuARM.pdb
+D:\5 Kerja\BJT JOSS\20160824 uArm\GUI\161020 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.csprojResolveAssemblyReference.cache
+D:\5 Kerja\BJT JOSS\20160824 uArm\GUI\161020 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.About.resources
+D:\5 Kerja\BJT JOSS\20160824 uArm\GUI\161020 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.Form1.resources
+D:\5 Kerja\BJT JOSS\20160824 uArm\GUI\161020 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.Properties.Resources.resources
+D:\5 Kerja\BJT JOSS\20160824 uArm\GUI\161020 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.csproj.GenerateResource.Cache
+D:\5 Kerja\BJT JOSS\160824 uArm\PROGAM\GUI\161020 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.exe
+D:\5 Kerja\BJT JOSS\160824 uArm\PROGAM\GUI\161020 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.pdb
+D:\5 Kerja\BJT JOSS\160824 uArm\PROGAM\GUI\161020 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\bin\Debug\Resources\uArm1.png
+D:\5 Kerja\BJT JOSS\160824 uArm\PROGAM\GUI\161020 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\bin\Debug\Resources\Logo Kecil.png
+D:\5 Kerja\BJT JOSS\160824 uArm\PROGAM\GUI\161020 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\bin\Debug\WindowsFormsApplicationGUIuARM.exe
+D:\5 Kerja\BJT JOSS\160824 uArm\PROGAM\GUI\161020 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\bin\Debug\WindowsFormsApplicationGUIuARM.pdb
+D:\5 Kerja\BJT JOSS\160824 uArm\PROGAM\GUI\161020 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.csprojResolveAssemblyReference.cache
+D:\5 Kerja\BJT JOSS\160824 uArm\PROGAM\GUI\161020 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.About.resources
+D:\5 Kerja\BJT JOSS\160824 uArm\PROGAM\GUI\161020 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.Form1.resources
+D:\5 Kerja\BJT JOSS\160824 uArm\PROGAM\GUI\161020 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.Properties.Resources.resources
+D:\5 Kerja\BJT JOSS\160824 uArm\PROGAM\GUI\161020 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.csproj.GenerateResource.Cache
+D:\5 Kerja\BJT JOSS\170524 TA ATKP\PROGAM\161020 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.About.resources
+D:\5 Kerja\BJT JOSS\170524 TA ATKP\PROGAM\161020 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.Form1.resources
+D:\5 Kerja\BJT JOSS\170524 TA ATKP\PROGAM\161020 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.Properties.Resources.resources
+D:\5 Kerja\BJT JOSS\170524 TA ATKP\PROGAM\161020 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.csproj.GenerateResource.Cache
+D:\5 Kerja\BJT JOSS\170524 TA ATKP\PROGAM\161020 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\bin\Debug\Resources\uArm1.png
+D:\5 Kerja\BJT JOSS\170524 TA ATKP\PROGAM\161020 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\bin\Debug\Resources\Logo Kecil.png
+D:\5 Kerja\BJT JOSS\170524 TA ATKP\PROGAM\161020 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\bin\Debug\WindowsFormsApplicationGUIuARM.exe
+D:\5 Kerja\BJT JOSS\170524 TA ATKP\PROGAM\161020 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\bin\Debug\WindowsFormsApplicationGUIuARM.pdb
+D:\5 Kerja\BJT JOSS\170524 TA ATKP\PROGAM\161020 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.exe
+D:\5 Kerja\BJT JOSS\170524 TA ATKP\PROGAM\161020 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.pdb
+D:\5 Kerja\BJT JOSS\170524 TA ATKP\PROGAM\161020 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.csprojResolveAssemblyReference.cache
+D:\5 Kerja\BJT JOSS\170524 TA ATKP\PROGAM\170611 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.exe
+D:\5 Kerja\BJT JOSS\170524 TA ATKP\PROGAM\170611 WindowsFormsApplicationGUIuARM\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.pdb
+D:\5 Kerja\BJT JOSS\170524 TA ATKP\PROGAM\170611 WindowsFormsApplicationGUIuARM dengan state\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.exe
+D:\5 Kerja\BJT JOSS\170524 TA ATKP\PROGAM\170611 WindowsFormsApplicationGUIuARM dengan state\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.pdb
+D:\5 Kerja\BJT JOSS\170524 TA ATKP\PROGAM\170611 WindowsFormsApplicationGUIuARM dengan state\WindowsFormsApplicationGUIuARM\bin\Debug\Resources\uArm1.png
+D:\5 Kerja\BJT JOSS\170524 TA ATKP\PROGAM\170611 WindowsFormsApplicationGUIuARM dengan state\WindowsFormsApplicationGUIuARM\bin\Debug\Resources\Logo Kecil.png
+D:\5 Kerja\BJT JOSS\170524 TA ATKP\PROGAM\170611 WindowsFormsApplicationGUIuARM dengan state\WindowsFormsApplicationGUIuARM\bin\Debug\WindowsFormsApplicationGUIuARM.exe
+D:\5 Kerja\BJT JOSS\170524 TA ATKP\PROGAM\170611 WindowsFormsApplicationGUIuARM dengan state\WindowsFormsApplicationGUIuARM\bin\Debug\WindowsFormsApplicationGUIuARM.pdb
+D:\5 Kerja\BJT JOSS\170524 TA ATKP\PROGAM\170611 WindowsFormsApplicationGUIuARM dengan state\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.csprojResolveAssemblyReference.cache
+D:\5 Kerja\BJT JOSS\170524 TA ATKP\PROGAM\170611 WindowsFormsApplicationGUIuARM dengan state\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.About.resources
+D:\5 Kerja\BJT JOSS\170524 TA ATKP\PROGAM\170611 WindowsFormsApplicationGUIuARM dengan state\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.Form1.resources
+D:\5 Kerja\BJT JOSS\170524 TA ATKP\PROGAM\170611 WindowsFormsApplicationGUIuARM dengan state\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.Properties.Resources.resources
+D:\5 Kerja\BJT JOSS\170524 TA ATKP\PROGAM\170611 WindowsFormsApplicationGUIuARM dengan state\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.csproj.GenerateResource.Cache
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Adi\PROGAM\SW\170611 WindowsFormsApplicationGUIuARM dengan state\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.exe
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Adi\PROGAM\SW\170611 WindowsFormsApplicationGUIuARM dengan state\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.pdb
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Adi\PROGAM\SW\170611 WindowsFormsApplicationGUIuARM dengan state\WindowsFormsApplicationGUIuARM\bin\Debug\Resources\uArm1.png
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Adi\PROGAM\SW\170611 WindowsFormsApplicationGUIuARM dengan state\WindowsFormsApplicationGUIuARM\bin\Debug\Resources\Logo Kecil.png
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Adi\PROGAM\SW\170611 WindowsFormsApplicationGUIuARM dengan state\WindowsFormsApplicationGUIuARM\bin\Debug\WindowsFormsApplicationGUIuARM.exe
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Adi\PROGAM\SW\170611 WindowsFormsApplicationGUIuARM dengan state\WindowsFormsApplicationGUIuARM\bin\Debug\WindowsFormsApplicationGUIuARM.pdb
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Adi\PROGAM\SW\170611 WindowsFormsApplicationGUIuARM dengan state\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.csprojResolveAssemblyReference.cache
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Adi\PROGAM\SW\170611 WindowsFormsApplicationGUIuARM dengan state\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.About.resources
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Adi\PROGAM\SW\170611 WindowsFormsApplicationGUIuARM dengan state\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.Form1.resources
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Adi\PROGAM\SW\170611 WindowsFormsApplicationGUIuARM dengan state\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.Properties.Resources.resources
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Adi\PROGAM\SW\170611 WindowsFormsApplicationGUIuARM dengan state\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.csproj.GenerateResource.Cache
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Adi\PROGAM\SW\170611 WindowsFormsApplicationGUIuARM dengan state\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.Form_isidata.resources
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Adi\PROGAM\SW\170611 WindowsFormsApplicationGUIuARM dengan state\WindowsFormsApplicationGUIuARM\bin\Debug\ZedGraph.dll
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Adi\PROGAM\SW\170611 WindowsFormsApplicationGUIuARM dengan state\WindowsFormsApplicationGUIuARM\bin\Debug\WindowsFormsApplicationGUIuARM.exe.config
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171025 NEW\170611 WindowsFormsApplicationGUIuARM dengan state\WindowsFormsApplicationGUIuARM\bin\Debug\WindowsFormsApplicationGUIuARM.exe.config
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171025 NEW\170611 WindowsFormsApplicationGUIuARM dengan state\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.exe
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171025 NEW\170611 WindowsFormsApplicationGUIuARM dengan state\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.pdb
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171025 NEW\170611 WindowsFormsApplicationGUIuARM dengan state\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.csprojResolveAssemblyReference.cache
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171025 NEW\170611 WindowsFormsApplicationGUIuARM dengan state\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.About.resources
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171025 NEW\170611 WindowsFormsApplicationGUIuARM dengan state\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.Form1.resources
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171025 NEW\170611 WindowsFormsApplicationGUIuARM dengan state\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.Form_isidata.resources
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171025 NEW\170611 WindowsFormsApplicationGUIuARM dengan state\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.Properties.Resources.resources
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171025 NEW\170611 WindowsFormsApplicationGUIuARM dengan state\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.csproj.GenerateResource.Cache
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171025 NEW\170611 WindowsFormsApplicationGUIuARM dengan state\WindowsFormsApplicationGUIuARM\bin\Debug\Resources\uArm1.png
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171025 NEW\170611 WindowsFormsApplicationGUIuARM dengan state\WindowsFormsApplicationGUIuARM\bin\Debug\Resources\Logo Kecil.png
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171025 NEW\170611 WindowsFormsApplicationGUIuARM dengan state\WindowsFormsApplicationGUIuARM\bin\Debug\WindowsFormsApplicationGUIuARM.exe
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171025 NEW\170611 WindowsFormsApplicationGUIuARM dengan state\WindowsFormsApplicationGUIuARM\bin\Debug\WindowsFormsApplicationGUIuARM.pdb
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171025 NEW\170611 WindowsFormsApplicationGUIuARM dengan state\WindowsFormsApplicationGUIuARM\bin\Debug\ZedGraph.dll
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171025 NEW\WindowsFormsApplicationGUIuARM\bin\Debug\WindowsFormsApplicationGUIuARM.exe.config
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171025 NEW\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.exe
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171025 NEW\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.pdb
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171025 NEW\WindowsFormsApplicationGUIuARM\bin\Debug\Resources\uArm1.png
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171025 NEW\WindowsFormsApplicationGUIuARM\bin\Debug\Resources\Logo Kecil.png
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171025 NEW\WindowsFormsApplicationGUIuARM\bin\Debug\WindowsFormsApplicationGUIuARM.exe
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171025 NEW\WindowsFormsApplicationGUIuARM\bin\Debug\WindowsFormsApplicationGUIuARM.pdb
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171025 NEW\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.csprojResolveAssemblyReference.cache
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171025 NEW\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.About.resources
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171025 NEW\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.Form1.resources
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171025 NEW\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.Form_isidata.resources
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171025 NEW\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.Properties.Resources.resources
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171025 NEW\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.csproj.GenerateResource.Cache
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171025 NEW\WindowsFormsApplicationGUIuARM\bin\Debug\GMap.NET.Core.dll
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171025 NEW\WindowsFormsApplicationGUIuARM\bin\Debug\GMap.NET.WindowsForms.dll
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171025 NEW\WindowsFormsApplicationGUIuARM\bin\Debug\GMap.NET.Core.xml
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171025 NEW\WindowsFormsApplicationGUIuARM\bin\Debug\GMap.NET.WindowsForms.xml
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\bin\Debug\WindowsFormsApplicationGUIuARM.exe.config
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.exe
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.pdb
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\bin\Debug\Resources\uArm1.png
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\bin\Debug\Resources\Logo Kecil.png
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\bin\Debug\WindowsFormsApplicationGUIuARM.exe
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\bin\Debug\WindowsFormsApplicationGUIuARM.pdb
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\bin\Debug\GMap.NET.Core.dll
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\bin\Debug\GMap.NET.WindowsForms.dll
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\bin\Debug\GMap.NET.Core.xml
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\bin\Debug\GMap.NET.WindowsForms.xml
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.csprojResolveAssemblyReference.cache
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.About.resources
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.Form1.resources
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.Form_isidata.resources
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.Properties.Resources.resources
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.csproj.GenerateResource.Cache
+D:\5 Kerja\BJT JOSS\170412 STTAL 4000\Pak Teguh\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\bin\Debug\WindowsFormsApplicationGUIuARM.exe.config
+D:\5 Kerja\BJT JOSS\170412 STTAL 4000\Pak Teguh\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.exe
+D:\5 Kerja\BJT JOSS\170412 STTAL 4000\Pak Teguh\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.pdb
+D:\BJT JOSS\170412 STTAL 4000\Pak Teguh\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\bin\Debug\WindowsFormsApplicationGUIuARM.exe.config
+D:\BJT JOSS\170412 STTAL 4000\Pak Teguh\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.exe
+D:\BJT JOSS\170412 STTAL 4000\Pak Teguh\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.pdb
+D:\Riset bersama\2019-08-14 Helm\gps location\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\bin\Debug\WindowsFormsApplicationGUIuARM.exe.config
+D:\Riset bersama\2019-08-14 Helm\gps location\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.exe
+D:\Riset bersama\2019-08-14 Helm\gps location\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.pdb
+D:\Riset bersama\2019-08-14 Helm\gps location\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\bin\Debug\WindowsFormsApplicationGUIuARM.exe
+D:\Riset bersama\2019-08-14 Helm\gps location\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\bin\Debug\WindowsFormsApplicationGUIuARM.pdb
+D:\Riset bersama\2019-08-14 Helm\gps location\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\bin\Debug\GMap.NET.Core.dll
+D:\Riset bersama\2019-08-14 Helm\gps location\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\bin\Debug\GMap.NET.WindowsForms.dll
+D:\Riset bersama\2019-08-14 Helm\gps location\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\bin\Debug\GMap.NET.Core.xml
+D:\Riset bersama\2019-08-14 Helm\gps location\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\bin\Debug\GMap.NET.WindowsForms.xml
+D:\Riset bersama\2019-08-14 Helm\gps location\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.csprojResolveAssemblyReference.cache
+D:\Riset bersama\2019-08-14 Helm\gps location\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.About.resources
+D:\Riset bersama\2019-08-14 Helm\gps location\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.Form1.resources
+D:\Riset bersama\2019-08-14 Helm\gps location\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.Properties.Resources.resources
+D:\Riset bersama\2019-08-14 Helm\gps location\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.csproj.GenerateResource.Cache
+D:\Riset bersama\2019-08-14 Helm\gps location\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\bin\Debug\AForge.Math.dll
+E:\Kerja\2019-08-14 Helm\gps location\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\bin\Debug\WindowsFormsApplicationGUIuARM.exe.config
+E:\Kerja\2019-08-14 Helm\gps location\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\bin\Debug\WindowsFormsApplicationGUIuARM.exe
+E:\Kerja\2019-08-14 Helm\gps location\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\bin\Debug\WindowsFormsApplicationGUIuARM.pdb
+E:\Kerja\2019-08-14 Helm\gps location\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\bin\Debug\GMap.NET.Core.dll
+E:\Kerja\2019-08-14 Helm\gps location\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\bin\Debug\GMap.NET.WindowsForms.dll
+E:\Kerja\2019-08-14 Helm\gps location\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\bin\Debug\AForge.Math.dll
+E:\Kerja\2019-08-14 Helm\gps location\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\bin\Debug\GMap.NET.Core.xml
+E:\Kerja\2019-08-14 Helm\gps location\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\bin\Debug\GMap.NET.WindowsForms.xml
+E:\Kerja\2019-08-14 Helm\gps location\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.csprojAssemblyReference.cache
+E:\Kerja\2019-08-14 Helm\gps location\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.About.resources
+E:\Kerja\2019-08-14 Helm\gps location\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.Form1.resources
+E:\Kerja\2019-08-14 Helm\gps location\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.Properties.Resources.resources
+E:\Kerja\2019-08-14 Helm\gps location\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.csproj.GenerateResource.cache
+E:\Kerja\2019-08-14 Helm\gps location\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.csproj.CoreCompileInputs.cache
+E:\Kerja\2019-08-14 Helm\gps location\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.csproj.CopyComplete
+E:\Kerja\2019-08-14 Helm\gps location\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.exe
+E:\Kerja\2019-08-14 Helm\gps location\GUI\171128 NEW\WindowsFormsApplicationGUIuARM\obj\x86\Debug\WindowsFormsApplicationGUIuARM.pdb

@@ -1,0 +1,11 @@
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Adi\PROGAM\SW\170611 WindowsFormsApplicationGUIuARM dengan state\WindowsFormsApplicationGUIuARM\obj\x86\Release\WindowsFormsApplicationGUIuARM.About.resources
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Adi\PROGAM\SW\170611 WindowsFormsApplicationGUIuARM dengan state\WindowsFormsApplicationGUIuARM\obj\x86\Release\WindowsFormsApplicationGUIuARM.Form1.resources
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Adi\PROGAM\SW\170611 WindowsFormsApplicationGUIuARM dengan state\WindowsFormsApplicationGUIuARM\obj\x86\Release\WindowsFormsApplicationGUIuARM.Properties.Resources.resources
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Adi\PROGAM\SW\170611 WindowsFormsApplicationGUIuARM dengan state\WindowsFormsApplicationGUIuARM\obj\x86\Release\WindowsFormsApplicationGUIuARM.csproj.GenerateResource.Cache
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Adi\PROGAM\SW\170611 WindowsFormsApplicationGUIuARM dengan state\WindowsFormsApplicationGUIuARM\obj\x86\Release\WindowsFormsApplicationGUIuARM.Form_serial.resources
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Adi\PROGAM\SW\170611 WindowsFormsApplicationGUIuARM dengan state\WindowsFormsApplicationGUIuARM\obj\x86\Release\WindowsFormsApplicationGUIuARM.Form_isidata.resources
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171025 NEW\WindowsFormsApplicationGUIuARM\obj\x86\Release\WindowsFormsApplicationGUIuARM.About.resources
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171025 NEW\WindowsFormsApplicationGUIuARM\obj\x86\Release\WindowsFormsApplicationGUIuARM.Form1.resources
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171025 NEW\WindowsFormsApplicationGUIuARM\obj\x86\Release\WindowsFormsApplicationGUIuARM.Form_isidata.resources
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171025 NEW\WindowsFormsApplicationGUIuARM\obj\x86\Release\WindowsFormsApplicationGUIuARM.Properties.Resources.resources
+D:\5 Kerja\BJT JOSS\170412 STTAL\Pak Teguh\GUI\171025 NEW\WindowsFormsApplicationGUIuARM\obj\x86\Release\WindowsFormsApplicationGUIuARM.csproj.GenerateResource.Cache
